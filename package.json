@@ -1,0 +1,13 @@
+{
+  "name": "mcmaklerautomationassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
